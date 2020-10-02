@@ -1,0 +1,6 @@
+# <--- Do not delete
+apache-beam[gcp]==2.24.0  # must match the Dockerfile base image
+klio-exec
+# --->
+crepe==0.0.11
+resampy==0.2.2
