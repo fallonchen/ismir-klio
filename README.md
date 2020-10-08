@@ -80,7 +80,11 @@ Commands:
   message  Manage a job's message queue via Pub/Sub.
 ```
 
-If you are having trouble with this step, please  sign up for the [Spotify FOSS Slack](https://slackin.spotify.com/) and ping us in the [#klio](https://spotify-foss.slack.com/archives/C0177KD51AP) channel.
+If you are having trouble with this step, please ping us on Slack! 
+
+If you have access to the ISMIR 2020 slack, you can find us in the [#tutorial-1-klio-tutorial](https://app.slack.com/client/T01AAT8RPMZ/C01C2MY697W/details/actions) room. 
+
+If you don't yet have access to the ISMIR 2020 slack, you can sign up for the [Spotify FOSS Slack](https://slackin.spotify.com/) and ping us in the [#klio](https://spotify-foss.slack.com/archives/C0177KD51AP) channel.
 
 
 And that's it! You're ready to go. 🙌
