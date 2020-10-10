@@ -61,13 +61,13 @@ $ ./launch-klio-playground.sh
 This script downloads the prepared Docker image, and launches the container in interactive mode with Klio installed for you inside of it. Once finished, your terminal should show something like this:
 
 ```
-root@1ee87cb4f3cc:/path/to/your/tutorial-code#
+root@1ee87cb4f3cc#
 ```
 
 And you should be able to run the klio command and see its help text:
 
 ```
-root@1ee87cb4f3cc:/path/to/your/tutorial-code# klio
+root@1ee87cb4f3cc# klio
 Usage: klio [OPTIONS] COMMAND [ARGS]...
 
 Options:
