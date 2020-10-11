@@ -89,3 +89,6 @@ If you don't yet have access to the ISMIR 2020 slack, you can sign up for the [S
 
 And that's it! You're ready to go. 🙌
 
+## After the Tutorial
+
+Klio is [released](https://github.com/spotify/klio) under the Apache 2.0 license. Documentation is on [Read the Docs](https://klio.readthedocs.io) and how to setup on your local machine can be found [here](https://klio.readthedocs.io/en/latest/quickstart/index.html).
